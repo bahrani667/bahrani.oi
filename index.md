@@ -1,4 +1,4 @@
 # Welcome to portal Bahrani
 ========================================================================================
-## CV BAHRANI (https://cv.bahrani.me)
-[CV]
+## CV BAHRANI
+[CV] (https://cv.bahrani.me)
